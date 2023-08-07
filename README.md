@@ -32,6 +32,6 @@ https://github.com/jensandage1/Module-13-ORM-Ecommerce-product-database-manageme
 
 
  Video Showing Userability:
- https://watch.screencastify.com/v/CT4bElUDxwpru9ntAu6E
+ https://watch.screencastify.com/v/gPr1tYaKRN5xu1ii4mOy
 
 ![screenshot of insomnia testing for tags](get-example-tags.png) ![screenshot of insomnia testing for categories](get-example-categories.png) ![screenshot of insomnia testing for products](get-example-products.png)
